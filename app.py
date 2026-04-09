@@ -93,3 +93,5 @@ if uploaded_file:
 
         model.fit(X_train, y_train)
         st.success("Model Trained Successfully!")
+
+        # End of File
